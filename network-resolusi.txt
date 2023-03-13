@@ -2,3 +2,4 @@ Network Resolusi
 - Konsisten belajar networking selama 3 bulan
 - Membuat project network menggunakan packet tracer
 - Membuat file automatisasi networking
+- Virtualisasi mikrotik
